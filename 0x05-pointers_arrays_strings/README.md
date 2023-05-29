@@ -1,0 +1,1 @@
+this Readme consists of C pointers,arrays and strings
